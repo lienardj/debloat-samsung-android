@@ -1,3 +1,5 @@
+pm uninstall -k --user 0 com.opera.max.oem
+
 pm uninstall -k --user 0 com.amazon.fv
 pm uninstall -k --user 0 com.amazon.kindle
 pm uninstall -k --user 0 com.amazon.mp3
