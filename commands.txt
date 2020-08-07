@@ -488,7 +488,7 @@ pm uninstall -k  --user 0 com.samsung.android.knox.analytics.uploader
 # If you use google contacts / Message / Gboard / calendar /alarm /not chrome, you can also disable :
 pm uninstall -k  --user 0 com.samsung.android.app.contacts
 pm uninstall -k  --user 0 com.samsung.android.messaging
-pm uninstall -k  --user 0 com.sec.android.inputmethod
+# pm uninstall -k  --user 0 com.sec.android.inputmethod
 pm uninstall -k  --user 0 com.samsung.android.calendar
 pm uninstall -k  --user 0 com.sec.android.app.clockpackage
 pm uninstall -k  --user 0 com.android.chrome
