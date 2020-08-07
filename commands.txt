@@ -162,7 +162,7 @@ pm uninstall -k --user 0 com.samsung.android.da.daagent
 pm uninstall -k --user 0 com.samsung.android.dlp.service
 pm uninstall -k --user 0 com.samsung.android.drivelink.stub
 pm uninstall -k --user 0 com.samsung.android.easysetup
-pm uninstall -k --user 0 com.samsung.android.email.provider
+# pm uninstall -k --user 0 com.samsung.android.email.provider
 pm uninstall -k --user 0 com.samsung.android.fmm
 pm uninstall -k --user 0 com.samsung.android.game.gamehome
 pm uninstall -k --user 0 com.samsung.android.game.gametools
